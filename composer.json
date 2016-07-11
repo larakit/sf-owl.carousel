@@ -1,0 +1,13 @@
+{
+    "name": "larakit/sf-owl.carousel",
+    "description": "[Larakit] [staticfiles] sf-owl.carousel",
+    "license": "MIT",
+    "require": {
+        "larakit/lk-staticfiles": "*"
+    },
+    "autoload": {
+        "files": [
+            "init.php"
+        ]
+    }
+}
