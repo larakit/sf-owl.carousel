@@ -3,7 +3,7 @@
     "description": "[Larakit] [staticfiles] sf-owl.carousel",
     "license": "MIT",
     "require": {
-        "larakit/lk-staticfiles": "*"
+        "larakit/sf-jquery": "*"
     },
     "autoload": {
         "files": [
